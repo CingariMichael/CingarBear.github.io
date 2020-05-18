@@ -1,0 +1,16 @@
+Project: Crossy Road 
+
+Course: CPSC 386
+
+Date: 5/18/2020
+
+This folder contains the project materials and other materials related to the final project for CSUF's CPSC 386 course. The project was 
+to recreate the Microsoft arcade game "Crossy Road" and is a first crack at learning Unreal Engine 4. 
+
+The project contains material for all of the following checkpoints: 
+
+  - APR 22 - "CR project chicken moves, looks where it's going, and jumps"
+  - MAY 03 - "CR shows dynamic highway lane spawning WITH cars, trucks"
+  - MAY 10 - "CR shows dynamic spawning of RRs (trains), rivers (logs), and grass (trees, rocks)"
+  - MAY 13 - "Chicken killed by cars/trucks(squashes), trains(explodes), river(drowns), or eagle"
+  - MAY 16 - "CROSSY ROAD ----- FINAL PROJECT"
